@@ -1,0 +1,640 @@
+{
+  "Summary": "Kiểm kho với hàng lô date",
+  "Testcases": [
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate có tồn kho trong hệ thống",
+      "Description": "Kiểm kho với Lô đã tồn tại trong hệ thống ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0001",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 2,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": ""
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate thiết lập hết tồn",
+      "Description": "Kiểm kho với Lô đã tồn tại trong hệ thống ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0002",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": []
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate để trống số tồn thực tế",
+      "Description": "Kiểm kho với Lô đã tồn tại trong hệ thống ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0003",
+            "IsDraft": true
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate thêm Lô hạn sử dụng",
+      "Description": "Kiểm kho với Lô đã tồn tại trong hệ thống thêm mới lô hạn mới ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0004",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 2,
+                "BatchName": "ABC",
+                "FullNameVirgule": "ABC - 30/10/2021",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": "noMatchBatchExpire"
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate thêm nhiều Lô hạn sử dụng",
+      "Description": "Kiểm kho với Lô đã tồn tại trong hệ thống thêm nhiều lô hạn mới ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 10,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0005",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 2,
+                "BatchName": "ABC",
+                "FullNameVirgule": "ABC - %ExpireDate",
+                "ExpireDate": "%TODAY+60",
+                "CssClass": "noMatchBatchExpire"
+              },
+              {
+                "Id": -2,
+                "ActualCount": 5,
+                "BatchName": "ABC",
+                "FullNameVirgule": "ABC - %ExpireDate",
+                "ExpireDate": "%TODAY+90",
+                "CssClass": "noMatchBatchExpire"
+              },
+              {
+                "Id": -3,
+                "ActualCount": 3,
+                "BatchName": "ABC",
+                "FullNameVirgule": "ABC - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": "noMatchBatchExpire"
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate có tồn kho số tồn kho số lượng thực tế và số lượng của lô không khớp",
+      "Description": "Kiểm kho với Lô có tồn kho số tồn kho số lượng thực tế và số lượng của lô không khớp ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 9,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0006",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 7,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": ""
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Sản phẩm LDKK0006 số lượng thực tế và số lượng của lô không khớp"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate với Lô bị trùng ",
+      "Description": "Kiểm kho với hàng hóa có lô bị trùng lặp ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 14,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0007",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 7,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": ""
+              },
+              {
+                "Id": -1,
+                "ActualCount": 7,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": ""
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Phiếu kiểm kho không đúng, mã LDKK0007 trùng lặp lô XYZ - %ExpireDate"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với 2  hàng Lodate có mã sản phẩm bị trùng ",
+      "Description": "Kiểm kho với 2 mã hàng lô date bị trùng ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 14,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0007",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 7,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY-60",
+                "CssClass": ""
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Phiếu kiểm kho không đúng, mã LDKK0007 trùng lặp lô XYZ - %ExpireDate"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm trạng thái hoàn thành với hàng Lodate có tồn kho trong hệ thống",
+      "Description": "Kiểm kho với Lô  Lodate có tồn kho trong hệ thống ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0001",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 2,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": ""
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm trạng thái hoàn thành với hàng Lodate thiết lập hết tồn",
+      "Description": "Kiểm kho với hàng lô date chọn thiết lập hết tồn kho ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0002",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": []
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng Lodate thêm Lô hạn sử dụng",
+      "Description": "Kiểm kho với Lô đã tồn tại trong hệ thống thêm mới lô hạn mới ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0004",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 2,
+                "BatchName": "ABC",
+                "FullNameVirgule": "ABC - 30/10/2021",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": "noMatchBatchExpire"
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng Lodate thêm nhiều Lô hạn sử dụng",
+      "Description": "Kiểm kho với Lô đã tồn tại trong hệ thống thêm nhiều lô hạn mới ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 10,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0005",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 2,
+                "BatchName": "ABC",
+                "FullNameVirgule": "ABC - %ExpireDate",
+                "ExpireDate": "%TODAY+60",
+                "CssClass": "noMatchBatchExpire"
+              },
+              {
+                "Id": -2,
+                "ActualCount": 5,
+                "BatchName": "ABC",
+                "FullNameVirgule": "ABC - %ExpireDate",
+                "ExpireDate": "%TODAY+90",
+                "CssClass": "noMatchBatchExpire"
+              },
+              {
+                "Id": -3,
+                "ActualCount": 3,
+                "BatchName": "ABC",
+                "FullNameVirgule": "ABC - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": "noMatchBatchExpire"
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate có tồn kho số tồn kho số lượng thực tế và số lượng của lô không khớp",
+      "Description": "Kiểm kho hàng Lodate có tồn kho số tồn kho số lượng thực tế và số lượng của lô không khớp ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 9,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0006",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 7,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": ""
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Sản phẩm LDKK0006 số lượng thực tế và số lượng của lô không khớp"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate có tồn kho với trùng LÔ ",
+      "Description": "Kiểm kho với Lô đã tồn tại trong hệ thống ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 14,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0007",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 7,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": ""
+              },
+              {
+                "Id": -1,
+                "ActualCount": 7,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY+30",
+                "CssClass": ""
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Phiếu kiểm kho không đúng, mã LDKK0007 trùng lặp lô XYZ - %ExpireDate"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng Lodate có mã sản phẩm bị trùng ",
+      "Description": "Kiểm kho với hàng Lodate có mã sản phẩm bị trùng ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 14,
+            "ProductName": "Bánh quy vị Vani ",
+            "ProductCode": "LDKK0007",
+            "IsDraft": false,
+            "ProductBatchExpireActualList": [
+              {
+                "Id": -1,
+                "ActualCount": 7,
+                "BatchName": "XYZ",
+                "FullNameVirgule": "XYZ - %ExpireDate",
+                "ExpireDate": "%TODAY-60",
+                "CssClass": ""
+              }
+            ]
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Phiếu kiểm kho không đúng, mã LDKK0007 trùng lặp lô XYZ - %ExpireDate"
+      }
+    }
+  ]
+}

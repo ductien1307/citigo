@@ -1,0 +1,39 @@
+nhanvien ____ nhanvien
+Close ____ Close
+DH ____ DH
+tr ____ tr
+HD ____ HD
+KK ____ KK
+New ____ New
+Chi nhánh trung tâm ____ Chi nhánh trung tâm
+KiotViet ____ KiotViet
+select ____ select
+TeamViewer ____ TeamViewer
+UltraViewer ____ UltraViewer
+AnyDesk ____ AnyDesk
+Import ____ Import
+VND ____ VND
+--- ____ ---
+× ____ ×
+- ____ -
+/ ____ /
+? ____ ?
+: ____ :
+Km ____ Km
+Keyboard Shortcuts: ____ Keyboard Shortcuts:
+enter ____ enter
+Show / hide this help menu ____ Show / hide this help menu
+Email ____ Email
+drop files here to upload ____ drop files here to upload
+cm ____ cm
+kg ____ kg
+gram ____ gram
+| | ____ | |
+Thành phố Châu Đốc, An Giang ____ Thành phố Châu Đốc, An Giang
+voucher ____ voucher
+Facebook ____ Facebook
+- ____
+// : ____ // :
+| ____ |
+Chi nhánh trung tâm: Thành phố Châu Đốc - An Giang ____ Chi nhánh trung tâm: Thành phố Châu Đốc - An Giang
+Export ____ Export

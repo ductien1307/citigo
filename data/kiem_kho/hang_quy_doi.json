@@ -1,0 +1,99 @@
+{
+  "Summary": "Kiểm kho với hàng quy đổi",
+  "Testcases": [
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng quy đổi",
+      "Description": "Kiểm kho hàng quy đổi  ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 1,
+            "ProductName": " Kẹo Quasure Light Cherry (hộp tự chọn)",
+            "ProductCode": "QDKK0001",
+            "IsDraft": false,
+            "MasterUnitId": "",
+            "ConversionValue": 4,
+            "OrderByNumber": 0,
+            "ShowUnit": true
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng đơn vịtính và  hàng quy đổi ",
+      "Description": "Kiểm kho hàng đơn vị tính và hai hàng quy đổi   ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 4,
+            "ProductName": "Túi 3 Bánh Socola Custas Trà Xanh SB(chiếc)",
+            "ProductCode": "DVTKK0002",
+            "IsDraft": false,
+            "MasterUnitId": "",
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": true
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductName": "Túi 3 Bánh Socola Custas Trà Xanh SB(hộp tự chọn)",
+            "ProductCode": "QDKK0003",
+            "IsDraft": false,
+            "MasterUnitId": "",
+            "ConversionValue": 3,
+            "OrderByNumber": 0,
+            "ShowUnit": true
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 4,
+            "ProductName": "Túi 3 Bánh Socola Custas Trà Xanh SB(hộp thập cẩm)",
+            "ProductCode": "QDKK0004",
+            "IsDraft": false,
+            "MasterUnitId": "",
+            "ConversionValue": 5.5,
+            "OrderByNumber": 0,
+            "ShowUnit": true
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "Summary": "Kiểm kho với hàng imei",
+  "Testcases": [
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng imei",
+      "Description": "Kiểm kho với SIKK00001 số lượng thực tế bằng tồn nhưng là số imei khác ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 3,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00001",
+            "SerialNumbers": "90,1234,999",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng imei",
+      "Description": "Kiểm kho với SIKK00002 số lượng thực tế bằng tồn sô imei đó ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Sản phẩm IMEI",
+            "ProductCode": "SIKK00002",
+            "SerialNumbers": "ABC,b123bd",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng imei thiết lập hết tồn kho",
+      "Description": "Kiểm kho với SIKK00003 thiết lập hết tồn kho  ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 0,
+            "ProductName": "Sản phẩm IMEI 1",
+            "ProductCode": "SIKK00003",
+            "SerialNumbers": "",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng imei kiểm kho tăng tồn",
+      "Description": "Kiểm kho với SIKK00004 kiểm kho tăng tồn  ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 3,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00004",
+            "SerialNumbers": "ABC,b123bd,bsd",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng imei để trống",
+      "Description": "Kiểm kho với SIKK00004 kiểm kho để trống  ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 0,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00004",
+            "SerialNumbers": "",
+            "IsDraft": true,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng imei kiểm kho tăng tồn",
+      "Description": "Kiểm kho với SIKK00005 kiểm kho imei chu thuong ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00005",
+            "SerialNumbers": "aBC,B123bd",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm số lượng với imei không khớp nhau",
+      "Description": "Kiểm kho với SIKK00005 số lượng với imei không khớp nhau ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 3,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00005",
+            "SerialNumbers": "aBC,B123bd",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Số lượng Serial không hợp lệ"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với imei trùng nhau",
+      "Description": "Kiểm kho với SIKK00005 imei trùng nhau ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00005",
+            "SerialNumbers": "aBC,aBC",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Violation of UNIQUE KEY constraint"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng imei thêm mới imei",
+      "Description": "Kiểm kho với SIKK00001 số lượng thực tế bằng tồn nhưng là số imei khác ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 3,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00001",
+            "SerialNumbers": "90,1234,999",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng imei ",
+      "Description": "Kiểm kho với SIKK00002 số lượng thực tế bằng tồn số imei đó ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00002",
+            "SerialNumbers": "ABC,b123bd",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng imei thiết lập hết tồn kho",
+      "Description": "Kiểm kho với SIKK00003 thiết lập hết tồn kho  ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 0,
+            "ProductName": "Sản phẩm IMEI 1",
+            "ProductCode": "SIKK00003",
+            "SerialNumbers": "",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng imei kiểm kho tăng tồn",
+      "Description": "Kiểm kho với SIKK00004 kiểm kho tăng tồn  ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 3,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00004",
+            "SerialNumbers": "ABC,b123bd,bsd",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng imei kiểm kho tăng tồn",
+      "Description": "Kiểm kho với SIKK00005 kiểm kho imei chu thuong ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00005",
+            "SerialNumbers": "aBC,B123bd",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm số lượng với imei không khớp nhau",
+      "Description": "Kiểm kho với SIKK00005 số lượng với imei không khớp nhau ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 3,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00005",
+            "SerialNumbers": "aBC,B123bd",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Số lượng Serial không hợp lệ"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với imei trùng nhau",
+      "Description": "Kiểm kho với SIKK00005 imei trùng nhau ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CompareCode": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 2,
+            "ProductName": "Sản phẩm IMEI ",
+            "ProductCode": "SIKK00005",
+            "SerialNumbers": "aBC,aBC",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Violation of UNIQUE KEY constraint"
+      }
+    }
+  ]
+}

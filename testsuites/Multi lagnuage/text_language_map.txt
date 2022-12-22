@@ -1,0 +1,991 @@
+Thanh toán (F) ____ Complete (F)
+Mua giá ____ Buy price
+Hiển thị trên tổng số hóa đơn ____ Show of invoice(s)
+Hiển thị trên tổng số phiếu đặt hàng ____ Show of order(s)
+Ngày lập: // : ____ Created date: // :
+Báo cáo cuối ngày về bán hàng ____ Daily sales report
+Ngày bán: // ____ Purchased date: //
+Thời gian ____ Date
+Doanh thu ____ Revenue
+Thực thu ____ Paid
+SL ____ Qty
+Mã giao dịch ____ Transaction code
+Phí trả hàng ____ Returns fee
+Báo cáo không có dữ liệu ____ No reported data
+Chi nhánh: Chi nhánh trung tâm ____ Outlet: Chi nhánh trung tâm
+Ngày thanh toán: // ____ Paid date: //
+F: ____ F:
+Km ____ Km
+Bật ____ On
+Có ____ Yes
+Mua ____ Buy
+Tắt ____ Off
+cho ____ for
+Bán ____ Sell
+Dòng ____ Row
+In ____ Print
+Không ____ No
+Lưu ____ Save
+Nam ____ Male
+Thêm ____ Add
+Thẻ ____ Card
+Tên ____ Name
+ngày ____ day
+tặng ____ get
+ĐT ____ Phone
+đồng ____ VND
+Loại ____ Type
+Mã ____ Number
+Ngày ____ Date
+Nữ ____ Female
+Xong ____ Done
+giá ____ price
+Đồng ý ____ OK
+Cao ____ Height
+Dài ____ Length
+Nhóm ____ Group
+Nợ: ____ Debit:
+Rộng ____ Width
+Tất cả ____ All
+Tặng ____ Bonus
+Xóa ____ Delete
+Điểm ____ Point
+Đóng ____ Close
+điểm ____ point
+Chọn ____ Select
+Email ____ Email
+Home: ____ Home:
+Khác ____ Others
+Lưu ý ____ Note
+Tồn ____ On hand
+Đặt ____ Ordered
+Ghi chú ____ Note
+Hàng ____ Product
+Khổ A ____ A size
+Khổ K ____ K size
+Lưu (F) ____ Note
+Lưu ý: ____ Note:
+Thu gọn ____ Hide
+Điểm: ____ Point:
+Bán hàng ____ Sale
+Bỏ qua ____ Cancel
+Enter: ____ Enter:
+Ghi chú: ____ Note
+Giá trị ____ Value
+Import ____ Import
+Ngày mua ____ Date
+Shift: ____ Shift:
+Tiền mặt ____ Cash
+Tên hàng ____ Sale
+Tồn: ____ On hand:
+Áp dụng ____ Apply
+Điểm GD ____ Point
+Đặt NCC ____ Order
+Hỗ trợ ____ Support
+Khách lẻ ____ Guest
+Mở rộng ____ Expand
+Ngày mua: ____ Date
+Phường xã ____ Ward
+Quản lý ____ Manage
+Số tiền ____ Amount
+Thời gian ____ Time
+Tên hàng: ____ Sale
+Về sau ____ Forward
+và mua ____ and buy
+Đặt hàng ____ Order
+đặt hàng ____ order
+Bảo hành ____ Return
+Chọn tất cả ____ All
+Công ty ____ Company
+Dư nợ ____ Liability
+Giá: } ____ Price: }
+Hóa Đơn ____ Invoice
+Hóa đơn ____ Invoice
+Kích thước ____ Size
+Loại thu ____ Number
+Làm mới ____ Refresh
+Người nộp ____ Payer
+Phiếu tạm ____ Draft
+Thu hộ tiền ____ COD
+Tiền chi ____ Amount
+Tiền thu ____ Amount
+Trả hàng ____ Return
+Tìm kiếm ____ Search
+Tổng cộng ____ Total
+Voucher ____ Voucher
+Vị trí ____ Position
+hóa đơn ____ invoice
+Đã nhận ____ Confirm
+Đã sử dụng ____ Used
+Địa chỉ ____ Address
+Chưa sử dụng ____ New
+Còn lại ____ Remained
+Cảnh báo ____ Warning
+Giới tính ____ Gender
+Hàng hóa ____ Product
+Khi mua ____ When buy
+Khu vực ____ Location
+Kích hoạt ____ Active
+Mã thu khác ____ Name
+Mặt hàng ____ Product
+Nợ sau: ____ Balance:
+Phóng to ____ Zoom in
+Sản phẩm ____ Product
+Sửa chữa ____ Address
+Thu nhỏ ____ Zoom out
+Thành tiền ____ Total
+Thêm mới ____ Add new
+Thời gian: ____ Time:
+Tiền thừa ____ Change
+Tồn: } ____ Onhand: }
+Xác nhận ____ Confirm
+sản phẩm ____ product
+Đang tải ____ Loading
+Đã hủy ____ Cancelled
+Đến ngày ____ To date
+- Bán hàng ____ - Sale
+Bán hàng - ____ Sale -
+Chờ giao lại ____ Time
+Giảm giá ____ Discount
+Hoàn lại ____ Returned
+Khách đã trả ____ Paid
+Lưu đơn hàng ____ Save
+Mua hàng ____ Purchase
+Mô tả ____ Description
+Mật khẩu ____ Password
+Người tạo ____ Creator
+Nhập lô ____ Enter lot
+Số lượng ____ Quantity
+Thông báo ____ Details
+Thông tin ____ Details
+Thực hiện ____ Process
+Trạng thái ____ Status
+Từ ngày ____ From date
+giảm giá ____ discount
+Địa chỉ ____ Address
+Điều chỉnh ____ Adjust
+Đã chi trước ____ Paid
+Đã thu trước ____ Paid
+Đăng xuất ____ Log out
+- Số ____ - Serial/Imei
+Chọn lô ____ Select lot
+Cá nhân ____ Individual
+Giao hàng ____ Delivery
+Giao nhanh ____ Express
+Giá bán ____ Sale Price
+Người bán ____ Salesman
+Nhân viên ____ Employee
+Phương thức ____ Method
+Số lượng: ____ Quantity
+Số thứ tự ____ Ordering
+Thu khác ____ Surcharge
+Thêm dòng ____ Add more
+Tiền thừa: ____ Change:
+Trọng lượng ____ Weight
+trả lại ( ____ return (
+Đơn giá ____ Unit Price
+Đặt: } ____ Reserved: }
+được cộng ____ is added
+được tặng ____ has gift
+--- Chọn --- ____ Select
+Còn cần thu ____ Balance
+Có lỗi xảy ra ____ Error
+Hoàn thành ____ Complete
+Hình thức ____ Sell type
+Hóa đơn mua ____ Invoice
+Khách cần trả ____ Total
+Khách hàng ____ Customer
+Mã mặc định ____ Default
+Người giám hộ ____ Payer
+Người nhận ____ Receiver
+Thanh toán ____ Complete
+Thời gian nhận ____ Time
+Trang sau ____ Next page
+Trạng thái: ____ Status:
+Tại cửa hàng ____ Return
+Tặng hàng ____ Free item
+cùng loại ____ same kind
+Điểm sau GD ____ Balance
+Chi nhánh mua ____ Outlet
+Giao thường ____ Standard
+Giảm giá HĐ ____ Discount
+Hàng hóa ( ____ Product (
+Hóa đơn mua: ____ Invoice
+Khuyến mại ____ Promotion
+Khách hàng: ____ Customer
+Loại dịch vụ ____ Service
+Mệnh giá: ____ Par value:
+Ngày dự kiến ____ Expired
+Nhập email ____ Enter lot
+Sản phẩm ( ____ Product (
+Trang cuối ____ Last page
+Trang đầu ____ First page
+Tất cả nhóm hàng ____ All
+Xóa ảnh ____ Delete image
+hết hạn ngày ____ To date
+mỗi sản phẩm ____ product
+Đã phân bổ ____ Allocated
+Địa chỉ nhận ____ Address
+Chi nhánh mua: ____ Outlet
+Chưa áp dụng ____ Inactive
+Chế độ nhập ____ Scan mode
+Chọn IMEI ____ Choose IMEI
+Chọn icon ____ Select icon
+Chọn ảnh ____ Choose image
+Có Internet ____ Connected
+Giá trị mới ____ New value
+Khach can tra: ____ Total:
+Kênh bán ____ Sale channel
+Mức thu ____ Default value
+Ngày tạo ____ Created date
+Nhà cung cấp ____ Supplier
+Thu hộ tiền (COD) ____ COD
+Thêm mới hàng ____ Add new
+Xuất file ____ Export file
+Xử lý đặt hàng ____ Orders
+vẫn còn hàng ____ on stock
+Đang sửa chữa ____ Address
+Đã phát hành ____ Released
+---Tất cả--- ____ ---All---
+Bác sỹ kê đơn ____ Subtotal
+Chọn bác sĩ ____ Select lot
+Chọn lô cho ____ Select lot
+Có bảo hành ____ Return fee
+Hàng bảo hành ____ Complete
+Khuyến mại: ____ Promotion:
+Mã hàng ____ Product number
+Tên bệnh nhân ____ Receiver
+Về trước ____ Previous page
+bị trùng ____ is duplicated
+KH đặt ____ Customer ordered
+Lưu trả hàng ____ Return fee
+Mã hàng: ____ Product number
+Mã voucher ____ Voucher code
+Ngày sinh ____ Date of birth
+Người nhận trả ____ Receiver
+Người nhận đặt ____ Receiver
+Phí trả hàng ____ Return fee
+Thêm mới bác sĩ ____ Add new
+Tên người nhận ____ Receiver
+Tại chi nhánh: ____ At shop:
+Tạo hóa đơn ____ Add invoice
+cho hóa đơn ____ for invoice
+Đang giao hàng ____ Shipping
+Địa chỉ nhận ____ Address
+Điện thoại ____ Phone number
+Đồng bộ phiếu ____ Sync data
+Đồng bộ tất cả ____ Sync all
+Giao thành công ____ Delivery
+Giao trong ngày ____ Same-day
+Giá trị hóa đơn ____ Subtotal
+Hóa đơn sửa chữa ____ Invoice
+Không có dữ liệu ____ No data
+Loại khách ____ Customer type
+Mã đặt hàng ____ Order number
+Nhập hàng ____ Purchase order
+Nhập người giám hộ ____ Payer
+Sửa chữa dịch vụ ____ Service
+Thêm bác sĩ ____ Add customer
+Thông tin của ____ Details of
+Toàn màn hình ____ Fullscreen
+Tên bác sĩ ____ Customer name
+Tên trình độ ____ Add invoice
+Tên địa chỉ ____ Address name
+Tên đối tác ____ Partner name
+Tổng tiền hàng ____ Sub-total
+không có dữ liệu ____ no data
+mã vận đơn ____ tracking code
+Đã lấy hàng ____ out of stock
+đã hết hàng ____ out of stock
+(Tổng điểm: ____ (Total point:
+Bán trực tiếp ____ Direct sale
+Chuyên khoa ____ Bank transfer
+Hoàn thành phiếu ____ Complete
+Không bảo hành ____ Return fee
+Loại đối tác ____ Partner type
+Lập phiếu thu ____ Add receipt
+Mã hóa đơn ____ Invoice number
+Mã số thuế ____ Tax reg number
+Mã voucher: ____ Voucher code:
+Mã đối tác ____ Partner number
+Mức thu mới ____ New surcharge
+Ngày bảo trì ____ Created date
+Nhập địa chỉ ____ Address name
+Phiếu bảo hành ____ Return fee
+Thêm trình độ ____ Add invoice
+Trang trước ____ Previous page
+Trả nhanh ____ Without invoice
+Tên người nhận ____ Receiver
+Tạo phiếu thu ____ Add receipt
+Tặng voucher ____ Give voucher
+Đối tác giao hàng ____ Carrier
+Chuyển khoản ____ Bank transfer
+Chế độ danh sách ____ List view
+Chọn Phường/Xã ____ Choose Ward
+Cần trả khách ____ Total refund
+Hàng sửa chữa ____ Address name
+Hẹn trả khách ____ Total refund
+Mã hàng hóa ____ Search product
+Mã vận đơn ____ Shipping number
+Ngày bảo trì: ____ Created date
+Người gửi trả phí ____ Receiver
+Nhóm hàng ____ Product category
+Nhóm đối tác ____ Partner group
+Phí giao hàng ____ Shipping fee
+Số điện thoại ____ Phone number
+Tên chuyên khoa ____ Select lot
+Tên địa chỉ ____ Address name
+Đang đồng bộ ____ Synchronizing
+Ảnh hàng hóa ____ Product image
+Bán thuốc theo đơn ____ Subtotal
+Chọn chuyên khoa ____ Select lot
+Chọn voucher ____ Select voucher
+Còn cần chi ____ Remaning amount
+Hình thức khuyến mại ____ Method
+Loại phiếu ____ Transaction type
+Mã phiếu ____ Transaction number
+Mã phiếu chi ____ Receipt number
+Mã phiếu thu ____ Receipt number
+Mã phiếu trả ____ Receipt number
+Mã đơn thuốc ____ Tax reg number
+Người nhận trả phí ____ Receiver
+Nhập tên bệnh nhân ____ Receiver
+Số lần mua: ____ Purchase times:
+Theo khách hàng ____ By customer
+Thiết lập in ____ Print settings
+Thu từ khách: ____ Customer pay:
+Thêm nhóm hàng ____ Add customer
+Tên nơi công tác ____ Select lot
+Tìm hàng hóa ____ Search product
+Tổng tiền trả ____ Refund amount
+Xóa chọn tất cả ____ Uncheck all
+Xóa hàng hóa ____ Remove product
+Điểm hiện tại ____ Current point
+Can tra khach: ____ Total refund:
+Chương trình khuyến mại ____ Name
+Chế độ hình ảnh ____ Gallery view
+Chọn nơi công tác ____ Select lot
+Ghi chú hàng khi mua: ____ Outlet
+Giá trị phiếu ____ Receipt Amount
+Hoàn thành sửa chữa ____ Complete
+Hàng trả: ____ Returned products:
+Hàng đổi: ____ Exchange products:
+Hóa đơn còn nợ: ____ Invoice due:
+Ngày phát hành ____ Released date
+Nhập cân nặng ____ Purchase order
+Nhập tuổi bệnh nhân ____ Receiver
+Phiếu trả còn nợ: ____ Return due
+Số điện thoại: ____ Phone number:
+Thêm hóa đơn mới ____ Add invoice
+Thêm khách hàng ____ Add customer
+Tiền trả khách ____ Refund amount
+Tên khách hàng ____ Customer name
+Tất cả chi nhánh ____ All outlets
+Tổng thu người nhận ____ Receiver
+Xem toàn màn hình ____ Fullscreen
+không tồn tại ____ does not exist
+Đang lấy hàng ____ Pickup address
+Đã chuyển hoàn ____ Bank transfer
+được giảm giá ____ total discount
+Thêm kênh bán ____ Add salechannel
+Chi nhánh tạo ____ Outlet creation
+Chọn file dữ liệu ____ Select file
+Các khoản thu khác ____ Surcharges
+Có thể bán ____ Available for sale
+Duy trì đăng nhập ____ Remember me
+Giá trị phiếu trả ____ Total amout
+Khách thanh toán ____ Customer pay
+Mã khách hàng ____ Customer number
+Phân bổ hóa đơn ____ Inv Allocated
+Số điện thoại ____ Phone number
+Thay đổi voucher ____ Edit voucher
+Theo ghi chú đặt hàng ____ By note
+Thời hạn bảo trì ____ Expire date:
+Tiền khách trả ____ Payment amount
+Tặng điểm ____ Bonus reward points
+Địa chỉ mới ____ Create address
+Điểm hiện tại: ____ Current point:
+Đợt phát hành: ____ Voucher issue:
+Giảm giá hàng ____ Product discount
+Không có Internet ____ Disconnected
+Nhập chuẩn đoán ____ Purchase order
+Nhập tên người nhận ____ Receiver
+Nhập địa chỉ nhận ____ Address name
+Phiếu đặt hàng ____ The transaction
+Thuộc tính hàng hóa ____ Attributes
+Thông tin đơn thuốc ____ Details of
+Thời hạn sử dụng: ____ Expire date:
+Tìm khách hàng ____ Search customer
+Tùy chọn hiển thị ____ Display mode
+Tổng giảm giá: ____ Total discount:
+Xem trước bản in ____ Print preview
+Xóa khách hàng ____ Delete customer
+Đang chuyển hoàn ____ Bank transfer
+Hoàn trả tạm ứng ____ Deposit refund
+Hình ảnh hàng sửa chữa ____ Complete
+Không tìm thấy sản phẩm ____ No data
+Quên mật khẩu? ____ Forget password?
+Sẵn sàng trả khách ____ Total refund
+Tìm hàng tặng ____ Search bonus item
+dài quá ký tự ____ exceed characters
+Điện thoại liên hệ ____ Phone number
+Địa chỉ lấy hàng ____ Pickup address
+-Tài khoản trả- ____ -Paying account-
+Báo cáo cuối ngày ____ End day report
+Bỏ chọn đối tác ____ Unselect partner
+Bỏ toàn màn hình ____ Exit fullscreen
+Chọn phiếu bảo hành ____ Choose image
+Số tài khoản: ____ Receiving account:
+Thay đổi sản phẩm ____ Change product
+Theo Serial/IMEI ____ Via serial/IMEI
+Theo mã đặt hàng ____ By order number
+Xác nhận trả hàng ____ Confirm return
+Bảng giá chung ____ General price book
+Chế độ nhập nhanh ____ Quick-scan mode
+Chọn mẫu in ____ Select print template
+Chờ chuyển hoàn lại ____ Bank transfer
+Lịch sử điểm ____ Reward point history
+Phát hành voucher ____ Release voucher
+Số bản in (Liên) ____ Number of copies
+Theo ghi chú hàng khi mua ____ By note
+Theo mã hóa đơn ____ By invoice number
+Theo mã vận đơn bán ____ tracking code
+Thời gian giao hàng ____ Delivery time
+Tên người mua/nhận ____ Buyer/receiver
+Tổng tiền mua ____ Additional purchase
+Đang tải hàng hóa ____ Loading product
+Cập nhật bác sĩ ____ Promotion programs
+Hoàn trả thu khác ____ Surcharge refund
+Hỗ trợ khách hàng ____ Customer support
+Nhập số điện thoại ____ Phone number
+Nhập tên bác sĩ ____ Promotion programs
+Nợ hiện tại: ____ Current debit amount:
+Phân bổ phiếu trả ____ Return Allocated
+Số lượng hàng hóa ____ Product quantity
+Thêm đối tác giao hàng ____ Add carrier
+Tìm kiếm nhóm hàng ____ Search category
+Tìm serial/IMEI ____ Search serial/IMEI
+Tìm đối tác (F) ____ Search partner (F)
+Tổng hóa đơn thanh toán: ____ Invoices:
+giảm giá sản phẩm ____ product discount
+sản phẩm cùng loại ____ related product
+Đang tải nhóm hàng ____ Loading product
+Đang xử lý dữ liệu ____ Processing data
+Địa chỉ nhận hàng ____ Shipping address
+đã bị ngừng kinh doanh ____ is inactive
+(Chuyển tạm ứng) ____ (Deposit transfer)
+(Hoàn trả tạm ứng) ____ (Deposit refund)
+Cập nhật hóa đơn ____ Promotion programs
+Dư nợ khách hàng ____ Customer liability
+Dư nợ đầu kỳ ____ Beginning debit amount
+Giảm giá tổng tiền ____ Product discount
+Khuyến mại đơn hàng ____ Order promotion
+Không tìm thấy sản phẩm nào ____ No data
+Mã đối tác giao hàng ____ Carrier number
+Thay đổi bảng giá ____ Switch price book
+Thu trên hóa đơn ____ Applied to invoice
+Thành phần combo ____ Combo-set products
+Trạng thái kết nối: ____ Network status:
+Trạng thái sửa chữa ____ Network status:
+Tìm mặt hàng (F) ____ Search product (F)
+Tính vào công nợ ____ Enter into account
+Tổng tiền hàng từ ____ Total amount from
+ra khỏi đơn hàng: ____ from transaction:
+-Tài khoản nhận- ____ -Receiving account-
+Bỏ chọn khách hàng ____ Unselect customer
+Chi tiết đơn giao hàng ____ Delivery time
+Cập nhật trình độ ____ Promotion programs
+Ghi chú cho sản phẩm ____ Note of product
+Khuyến mại trên ____ Promotion applied to
+Không giao được hàng ____ Delivery failed
+Kết thúc đơn đặt hàng ____ Complete order
+Tiền trả khách (F) ____ Refund amount (F)
+Trạng thái giao hàng ____ Delivery status
+Tìm đối tác giao hàng ____ Search carrier
+Xóa đối tác giao hàng ____ Delete Carrier
+Đồng bộ dữ liệu ____ Offline transactions
+Chế độ nhập thường ____ Standard-scan mode
+Email không hợp lệ ____ Email is not valid
+Gộp hàng hóa liên quan ____ Group variants
+Import đơn hàng ____ Import invoice, order
+Khuyến mại hóa đơn ____ Promotion programs
+Khách thanh toán (F) ____ Customer pay (F)
+Lọc theo nhóm hàng ____ Filter by category
+Nhập số Serial/Imei ____ Enter Serial/IMEI
+Phím tắt chức năng ____ Keyboard shortcuts
+Thông tin voucher ____ Voucher information
+Tất cả khách hàng ____ All customer groups
+chưa nhập số lượng! ____ ) has no quantity
+) chưa nhập số lượng ____ ) has no quantity
+Chọn hàng khuyến mại ____ Choose bonus item
+Phường xã không hợp lệ ____ Ward is invalid
+Sửa người mua/nhận ____ Edit buyer/receiver
+Thêm mới Đối tác Giao hàng ____ Add carrier
+Thêm người mua/nhận ____ Add buyer/receiver
+Tìm khách hàng (F) ____ Search customer (F)
+Tạo phiếu thu & In ____ Add receipt & Print
+không thuộc bảng giá ____ not in price book
+đã bị cập nhật bởi ____ has been updated by
+Bạn chưa chọn Lưu ý ____ Voucher is required
+Cập nhật chuyên khoa ____ Promotion programs
+Hình ảnh hàng yêu cầu sửa chữa ____ Complete
+Không tìm thấy khách hàng ____ No data found
+Không tìm thấy serial phù hợp ____ No result
+Không tìm thấy sản phẩm phù hợp ____ No data
+Voucher không hợp lệ ____ Voucher is invalid
+Xem báo cáo cuối ngày ____ End of day report
+Bạn chưa nhập Phường xã ____ Ward is required
+Bật chế độ tự động in ____ Turn on auto print
+Bỏ chọn nhóm hàng ____ Unselect group product
+Giảm số lượng sản phẩm ____ Decrease quantity
+Khu vực không hợp lệ ____ Location is invalid
+Theo Serial/IMEI/Biển số ____ Via serial/IMEI
+Theo lô, hạn sử dụng ____ By lot, expiry date
+Trả hàng nhà cung cấp ____ Return to supplier
+Tách hàng hóa liên quan ____ Ungroup variants
+Tăng số lượng sản phẩm ____ Increase quantity
+Tổng tiền hàng trả ____ Total amount returned
+Tổng thanh toán phiếu trả: ____ Total amount:
+Xóa người mua/nhận ____ Delete buyer/receiver
+Xóa người thu/nhận ____ Delete buyer/receiver
+Bạn chưa chọn voucher ____ Voucher is required
+Danh sách các phím tắt ____ Keyboard shortcuts
+Hàng ngừng kinh doanh ____ Deactivated product
+Không tìm thấy hàng hóa phù hợp ____ No result
+Phiếu hàng đang trống ____ No product selected
+Thanh toán trước cho đơn hàng ____ Paid amount
+Tìm sản phẩm khuyến mại ____ Search bonus item
+Tắt chế độ tự động in ____ Turn off auto print
+Tự động in hóa đơn ____ Auto receipt the print
+Voucher đã được chọn ____ Voucher has selected
+Xác nhận thời gian bảo trì ____ Confirm return
+Áp dụng cho chi nhánh: ____ Applicable outlet:
+Áp dụng cho khách hàng: ____ Applied customer:
+Đơn hàng đã hoàn thành ____ Order is completed
+Bạn chưa nhập Khu vực ____ Location is required
+Không tìm thấy kết quả nào phù hợp ____ No data
+Mặc định giảm giá theo ____ Default discount by
+Ngày sinh không hợp lệ ____ Birthday is invalid
+Thanh toán(Sổ quỹ) ____ Payment(General ledger)
+Tổng tiền hàng tối thiểu ____ Minimum sub-total
+Xóa địa chỉ lấy hàng ____ Delete pickup address
+Đang tải thuộc tính ____ Choose attribute value
+điểm cho hóa đơn ____ loyalty point for invoice
+- Thiếu giá trị Số lượng ____ - Lack of quantity
+Bạn chưa nhập Trình độ ____ Location is required
+Bạn chỉ được chọn imei ____ Only IMEI is allowed
+Chọn lô, hạn sử dụng ____ Select lot,expiry date
+Hóa đơn trên ____ Invoice amount is greater than
+Hết hạn bảo hành ____ Exceed the limit of return
+Hết hạn trả hàng ____ Exceed the limit of return
+Không tìm thấy khách hàng phù hợp ____ No result
+Nhóm người mua/nhận ____ Group of buyer/receiver
+Nhập số điện thoại ____ Phone number is required
+Thanh toán trước cho phiếu YCSC ____ Paid amount
+Theo tên, mã hàng ____ By product name or number
+Tiền thừa trả khách ____ Give change to customer
+Tìm lô, hạn sử dụng ____ Search lot, expiry date
+đã phát sinh hóa đơn ____ existed in the invoice
+Bạn chưa chọn nhóm hàng ____ Customer is required
+Chọn lô khuyến mãi ____ Select batch/ expiry date
+Hết hạn bảo hành: ____ Exceed the limit of return
+Hỗ trợ thêm tối đa dòng ____ Supports up to lines
+Khuyến mại trên hóa đơn ____ Promotion on invoice
+Không tìm thấy bản ghi nào phù hợp ____ No result
+Không tìm thấy đối tác phù hợp ____ No data found
+Lỗi lấy data khách hàng! ____ All customer groups
+Thanh toán bằng điểm ____ Payment by reward point
+Thiếu giá trị Mã hàng ____ Lack of Product number
+Thêm mới địa chỉ lấy hàng ____ New pickup address
+Thời hạn bảo hành ____ Exceed the limit of return
+Tên cơ sở khám bệnh ____ Phone number is required
+Voucher không tồn tại ____ Voucher does not exist
+Bạn chưa chọn khách hàng ____ Customer is required
+Bạn chỉ được tặng tối đa ____ You can give maximum
+Khách hàng không hợp lệ! ____ Customer is invalid!
+Nhập mã voucher ____ Please enter the voucher code
+Thanh toán hóa đơn nợ ____ Payments for debt bills
+Thêm địa chỉ nhận mới ____ New shipping address
+Tìm hàng trả (F) ____ Search product to return (F)
+Tổng giá gốc hàng mua ____ Total original purchase
+Xem/bỏ chế độ toàn khung ____ Exit fullscreen mode
+- Chưa nhập tên lô ____ - Have not entered lot name
+Bạn chỉ được chọn voucher ____ Only IMEI is allowed
+Bạn có muốn tiếp tục? ____ Do you want to continue?
+Chọn hóa đơn trả hàng ____ Choose invoice to return
+Chọn phương thức tìm kiếm ____ Choose search method
+Dịch vụ, hàng hóa cần thanh toán (F) ____ Invoices:
+Mua hàng tặng voucher ____ Buy product give voucher
+Thay đổi chế độ nhập số lượng ____ Switch scan mode
+Tên khách hàng trống ____ Customer name is required
+Chế độ sử dụng cân điện tử ____ Use electronic scale
+Cập nhật địa chỉ lấy hàng ____ Update pickup address
+Số tiền không hợp lệ ____ Amount of money is invalid
+Theo tên hoặc mã hàng ____ By product name or number
+Thoát chế độ toàn màn hình ____ Exit fullscreen mode
+Tìm hàng hóa theo mã hoặc tên ____ Search bonus item
+Tìm hàng đổi (F) ____ Search product to exchange (F)
+Xóa dữ liệu thành công ____ Delete data successfully
+không tồn tại trong đơn hàng ____ not exist in order
+Đã tạo xong phiếu YCSC ____ Added order successfully
+đã tồn tại trong hóa đơn ____ existed in the invoice
+- Thiếu giá trị Mã hàng ____ - Lack of Product number
+Bạn chưa nhập tên hàng ____ Customer name is required
+Lưu voucher thành công ____ Save voucher successfully
+Lọc theo thuộc tính hàng hóa ____ Filter by attribute
+Sắp xếp thứ tự hàng hóa ____ Arrange product in order
+Cập nhật nơi công tác ____ Updated data unsuccessfully
+Không thể tạo vận đơn ____ Can't make Delivery invoice
+không có trên hệ thống ____ do not exist in the system
+Bạn chưa nhập Tên bác sĩ ____ Customer name is required
+Chưa nhập tên khách hàng ____ Customer name is required
+Cộng vào tài khoản khách hàng: ____ Enter into account:
+Hóa đơn đang trống! ____ Invoice amount is greater than
+Hủy địa chỉ nhận hàng ____ Delete this shipping address
+Không hiển thị lần sau ____ Don't display for next time
+Mật khẩu hàng yêu cầu sửa chữa ____ No product selected
+Mặc định giảm giá theo VND ____ Default discount by VND
+Thay đổi số lượng sản phẩm ____ Change product quantity
+vượt quá số lượng đã mua ____ exceed purchased quantity
+Bạn chưa nhập Chuyên khoa ____ Customer name is required
+Bạn chưa điền phường xã người nhận ____ Ward is required
+Chọn dịch vụ, hàng hóa ____ Delivery service is required
+Hiển thị thông tin mã hàng ____ Display code information
+Theo khách hàng hoặc ĐT ____ By customer or phone number
+Tiền thừa thanh toán cho các hóa đơn còn nợ ____ Balance
+Tạo Phiếu thu Thành công ____ Added receipt successfully
+Tổng thanh toán hóa đơn: ____ Total payment for invoice:
+Đã tạo xong phiếu đặt hàng ____ Added order successfully
+- Chưa nhập hạn sử dụng ____ Have not entered expiry date
+Bạn chưa nhập số điện thoại ____ Phone number is required
+Bạn chưa điền địa chỉ người nhận ____ Address is required
+Chọn Tỉnh/TP - Quận/Huyện ____ Choose Province - District
+Chọn hàng sửa chữa bảo hành ____ Choose invoice to return
+Hiển thị - trên tổng số hóa đơn ____ Show - of invoice(s)
+Hiển thị - trên tổng số phiếu thu ____ Show - of order(s)
+Hiển thị - trên tổng số phiếu trả ____ Show - of order(s)
+Theo mã, tên hoặc SĐT KH ____ By customer or phone number
+: chưa nhập voucher cho chương trình khuyến mại ____ Name
+Bạn chưa điền khu vực người nhận ____ Location is required
+Chưa chọn đối tác giao hàng ____ Delivery partner required
+Cập nhật vận đơn thành công ____ Updated data successfully
+Tự động in phiếu bảo hành ____ Automatically Delivery Form
+Bạn chưa chọn voucher để phát hành ____ Voucher is required
+Bạn chưa nhập Cơ sở khám bệnh ____ Phone number is required
+Bạn chưa nhập Tên khách hàng ____ Customer name is required
+Bạn chưa điền tên người nhận ____ Recevier name is required
+Chỉ sử dụng máy quét Mã vạch ____ Use barcode scanning only
+Mua hàng tặng hàng ____ Buy product, get other product free
+Mặc định sắp xếp theo tăng dần ____ Sort by ascending order
+Phiếu yêu cầu sửa chữa đang trống! ____ No product selected
+Số điện thoại đã tồn tại ____ Phone number has been existed
+Thanh toán cho công nợ hóa đơn ____ Payments for debt bills
+Tổng bán trừ trả hàng ____ Total purchase (exclude returns)
+Tự động in phiếu giao hàng ____ Automatically Delivery Form
+Vui lòng nhập mã voucher ____ Please enter the voucher code
+không được bán trực tiếp ____ is now allowed sell in person
+Áp dụng cho hàng/nhóm hàng: ____ Applied products / groups:
+Bạn chưa nhập tên nhóm ____ Name of sale channel is required
+Cập nhật thông tin thành công ____ Updated data successfully
+Hiển thị thông tin thành tiền ____ Display total information
+Lưu giao dịch thành công ____ Saved transaction successfully
+Mua hàng tặng điểm ____ Buy product, get bonus reward points
+Mặc định sắp xếp theo giảm dần ____ Sort by descending order
+Thanh toán cho phiếu trả còn nợ ____ Payments for debt bills
+Thêm kênh bán thành công ____ Added salechannel successfully
+Tổng phân bổ cho hóa đơn: ____ Total allocation for invoice:
+Vui lòng nhập Người mua/nhận ____ Buyer/receiver is required
+Bạn không có quyền này ____ You have no permission to do this
+Di chuyển xuống sản phẩm tiếp theo ____ Focus to next product
+Hiển thị - trên tổng số bản ghi ____ Show - of transaction(s)
+Hiển thị ảnh đại diện của hàng hóa ____ Display product image
+Tổng phân bổ cho phiếu trả: ____ Total allocation for return:
+đã quá hạn được phép trả ____ exceed the time limit of return
+Hiển thị thông tin giá bán ____ Display sale price information
+Hiển thị thông tin đơn giá ____ Display unit price information
+Hiển thị - trên tổng số phiếu đặt hàng ____ Show - of order(s)
+Mã bác sĩ không được bỏ trống ____ Customer number is required
+Thiếu thông tin mã khách hàng ____ Customer number is required
+(Tổng bán trừ trả hàng: ____ (Total purchase (exclude returns):
+) vượt quá số lượng đã mua ( ____ ) exceed purchased quantity (
+Bạn chưa chọn Khách hàng để tích điểm ____ Customer is required
+Chọn Phường/Xã (không bắt buộc) ____ Receiver's ward (optional)
+Di chuyển lên sản phẩm phía trên ____ Focus to previous product
+Hiển thị - trên tổng số giao dịch ____ Show - of transaction(s)
+Hiển thị - trên tổng số phiếu chi ____ Show - of transaction(s)
+Hàng hóa không thuộc bảng giá ____ Product is not in price book
+Mặc định khách thanh toán ____ Enter Customer pay automatically
+Số lượng sản phẩm không hợp lệ ____ Product quantity is invalid
+Tổng tiền thanh toán quá lớn! ____ Payment amount is too large!
+- Lô: , Hạn sử dụng không tồn tại ____ - Lot: , Exp do not exist
+Bạn chưa nhập Nơi công tác ____ Name of sale channel is required
+Bạn chưa nhập tên kênh bán ____ Name of sale channel is required
+Công nợ hóa đơn sau phân bổ: ____ Invoice debt after allocating:
+Không hiển thị ảnh đại diện của hàng hóa ____ Hide product image
+Lưu khách hàng không thành công ____ Saved customer successfully
+Thay đổi thứ tự sắp xếp hàng hóa ____ Change ordering of product
+Đối tác được tạo thành công ____ Partner is created successfully
+đã tồn tại trong hệ thống ____ has already existed in the system
+Bạn chưa chọn Dịch vụ giao hàng ____ Delivery service is required
+Bật/Tắt chế độ in tự động ____ Turn On/Off auto receipt the print
+Công nợ phiếu trả sau phân bổ: ____ Return debt after allocating:
+Không tìm thấy sản phẩm có mã: ____ No product found with number:
+Sử dụng Tìm kiếm & Quét mã vạch ____ Lets Search and Scan barcode
+Bạn chưa nhập Tên người mua/nhận? ____ Buyer/Receiver is required?
+Bạn chưa nhập giá trị Thu từ khách ____ Payment amount is required
+Hóa đơn được cập nhật thành công ____ Updated invoice successfully
+Không hiển thị thông tin mã hàng ____ Not display code information
+Mã khách hàng không được bỏ trống ____ Customer number is required
+Trả hàng được cập nhật thành công ____ Updated return successfully
+Bạn chưa chọn bên trả phí ____ You need to provide a recipient name
+Bạn chưa chọn hàng khuyến mại ____ You should choose the bonus item
+Mua hàng giảm giá hàng ____ Buy product, get other product $ or off
+Nhập mã voucher và ấn Enter ____ Enter voucher code and press Enter
+Bạn chưa điền số điện thoại người nhận ____ Phone numner is required
+Chưa nhập lô cho sản phẩm ____ : has not entered lot for the product
+Cập nhật thông tin không thành công ____ Updated data unsuccessfully
+File không đúng định dạng hình ảnh ____ Image file format is invalid
+Không tự động in hóa đơn ____ Do not print automatically transaction
+Bạn vừa xóa sản phẩm ____ You’ve just deleted the promotional product
+Chọn phiếu thu thanh toán cho hóa đơn ____ Select receipt for invoice
+Click để thiết lập tài khoản nhận tiền thu hộ ____ Click for updating
+Thông tin đơn hàng được cập nhật thành công ____ Updated successfully
+Tạo địa chỉ nhận thành công ____ Create shipping address successfully
+Xử lý dữ liệu (Tải về file mẫu) ____ Process data (Download template)
+Áp dụng gộp nhiều voucher ____ Apply multiple vouchers on one invoice
+Có lỗi xảy ra vui lòng thử lại ____ An error occurred please try again
+Không hiển thị thông tin thành tiền ____ Not display total information
+Không thực hiện được vì Hóa đơn ____ Unable to process because invoice
+Không áp dụng gộp nhiều voucher ____ Could not apply multiple vouchers
+Quét mã vạch cân điện tử ____ Use barcode reader of electronic balance
+: chưa nhập lô cho sản phẩm ____ : has not entered lot for the product
+Bạn chưa chọn sản phẩm khuyến mại ____ You should choose the bonus item
+Bạn chưa nhập số lượng của Lô ____ You have not entered quantity of lot
+Bạn chưa nhập thông tin đơn thuốc ____ Name of sale channel is required
+Giá bán đang nhỏ hơn giá vốn ____ Sale price is smaller than unit price
+Không hiển thị vì bạn không có quyền xem danh sách hóa đơn ____ Not per
+Không tự động in phiếu bảo hành ____ Do not Automatically Delivery Form
+Mã hàng không được chứa ký tự đặc biệt ____ Customer number is required
+Địa chỉ không được vượt quá ký tự ____ Address cannot exceed characters
+Hàng hóa, dịch vụ khách thanh toán ____ Enter Customer pay automatically
+Không hiển thị thông tin giá bán ____ Not display sale price information
+Không hiển thị thông tin đơn giá ____ Not display unit price information
+Không tự động in phiếu giao hàng ____ Do not Automatically Delivery Form
+Sai Tên đăng nhập hoặc mật khẩu! ____ Username or password is incorrect!
+Bạn cần cung cấp tên người nhận ____ You need to provide a recipient name
+Chọn phiếu chi thanh toán cho nợ phiếu trả ____ Select payment for return
+Dung lượng file không được lớn quá MB ____ File size should not exceed MB
+Giá bán theo số lượng mua ____ Buy every n items at a fixed reduced price
+đã được tạo từ KiotViet ____ from KiotViet to ensure system work smoothly
+Bạn chưa nhập Tên đối tác giao hàng ____ Delivery partner name is required
+Bạn chưa nhập giá trị Thu từ khách ____ Payment amount should not be blank
+Chi tiết bảo trì không được phép để trống ____ Customer number is required
+Hết thời gian làm việc với hệ thống ____ End of working time in the system
+Khách thanh toán - Tính vào công nợ ____ Customer pay – Enter into account
+Kích thước cần là một số nguyên ____ Size value should be a natural number
+Thời gian giao hàng phải sau thời gian ____ Delivery time must larger than
+Bạn phải chọn sản phẩm bảo hành trước ____ You should choose the bonus item
+Chi tiết bảo hành không được phép để trống ____ Customer number is required
+Chọn mặc định giảm giá theo VND hoặc ____ Select default discount by VND or
+Không có chương trình khuyến mại nào được áp dụng ____ No promotion applied
+Thời hạn bảo hành không được phép để trống ____ Customer number is required
+: chưa nhập voucher cho sản phẩm ____ : has not entered lot for the product
+Cho phép tự động tính khách thanh toán ____ Enter Customer pay automatically
+Không có kết nối Vui lòng kiểm tra lại ____ No connection Please check again
+Nhập danh sách đặt hàng từ file excel ____ Import order list from excel file
+Vui lòng nhập Ghi chú không quá kí tự ____ Note should not exceed characters
+Vui lòng nhập Mã hàng không quá kí tự ____ Note should not exceed characters
+Vui lòng nhập Người nộp không quá kí tự ____ Payer can not exceed characters
+Vui lòng nhập Địa chỉ không quá kí tự ____ Note should not exceed characters
+hoặc chọn đối tác giao hàng khác ____ or choose a different shipping partner
+- Giảm giá không được lớn hơn Đơn giá ____ - Discount should not exceed Price
+- Số lượng Serial/IMEI không hợp lệ ____ - Quantity of Serial/IMEI is invalid
+Không thể tìm kiếm vì bạn không có quyền xem danh sách Nhân viên ____ Not per
+Nhập danh sách hóa đơn từ file excel ____ Import invoice list from excel file
+Nhập danh sách trả hàng từ file excel ____ Import return list from excel file
+Trình độ này đã tồn tại trong hệ thống ____ has already existed in the system
+Trọng lượng cần là một số nguyên ____ Weight value should be a natural number
+Vui lòng nhập Người nhận không quá kí tự ____ Payer can not exceed characters
+Vui lòng nhập Trình độ không quá kí tự ____ Note should not exceed characters
+Vui lòng nhập Tên hàng không quá kí tự ____ Note should not exceed characters
+Bạn cần cung cấp kích thước gói hàng ____ You need to provide the package size
+Khách hàng không tồn tại hoặc đã bị xóa ____ Customer is not exists or deleted
+Không thể tìm kiếm vì bạn không có quyền xem danh sách Khách hàng ____ Not per
+Tỉnh/ thành phố hoặc Quận/ huyện không hợp lệ ____ Location or Ward is invalid
+Vui lòng nhập Mã bác sĩ không quá kí tự ____ Note should not exceed characters
+Bạn cần cung cấp khu vực người nhận ____ You need to provide the recipient area
+Hỗ trợ thêm nhiều dòng cho một sản phẩm ____ Support more lines for one product
+Vui lòng nhập Tên bác sĩ không quá kí tự ____ Note should not exceed characters
+ngày Bạn có muốn tiếp tục trả hàng? ____ day Are you sure you want to continue?
+Phiếu đặt hàng bạn đang thao tác sẽ bị ghi đè ____ Your data will be overwritten
+Bạn cần cung cấp trọng lượng gói hàng ____ You need to supply the package weight
+Chuyên khoa này đã tồn tại trong hệ thống ____ has already existed in the system
+Không thể tìm kiếm vì bạn không có quyền xem danh sách Nhà cung cấp ____ Not per
+Thông tin khách hàng được cập nhật thành công ____ Updated customer successfully
+Vui lòng nhập Chuyên khoa không quá kí tự ____ Note should not exceed characters
+Đơn hàng chưa có hàng hóa để giao ____ Orders are not yet available for delivery
+Bạn không có quyền thực hiện chức năng này ____ You have no permission to do this
+Một trang dữ liệu không được vượt quá dòng ____ A data page must not exceed lines
+Nơi công tác này đã tồn tại trong hệ thống ____ has already existed in the system
+Vui lòng nhập Nơi công tác không quá kí tự ____ Note should not exceed characters
+Bạn cần cung cấp địa chỉ người nhận ____ You need to provide the recipient address
+Số điện thoại không được vượt quá ký tự ____ Phone number cannot exceed characters
+Bạn vừa tạo hóa đơn từ đơn đặt hàng ____ You' ve just created an invoice from order
+- Hủy hóa đơn cũ và tạo hóa đơn mới ____ - Cancel old invoice and create new invoice
+Cơ sở khám bệnh này đã tồn tại trong hệ thống ____ has already existed in the system
+Tiền thừa thanh toán cho các phiếu trả còn nợ ____ Excess money pays for debt return
+Tên khách hàng không được vượt quá ký tự ____ Customer name cannot exceed characters
+vượt quá số dòng tối đa của mỗi sản phẩm ____ exceed the limited row of each product
+Bạn không có quyền sử dụng voucher ____ You don’t have permission to use this voucher
+Không thể tìm kiếm vì bạn không có quyền xem danh sách Đối tác giao hàng ____ Not per
+Mã khách hàng không được vượt quá ký tự ____ Customer number cannot exceed characters
+Vận đơn KHÔNG được tạo thành công trên ____ Shipping order is unable to be created on
+hoặc đã bán quá tháng, không thể trả lại ____ or sold more than months, cannot return
+Đợt phát hành của voucher chưa được kích hoạt ____ The issue of voucher is not active
+- Lô: , Hạn sử dụng không đủ tồn kho ____ - Lot , Exp is not enough inventory in stock
+Khách hàng không thuộc chi nhánh hiện tại ____ Customer does not belong to this outlet
+Tự động in hóa đơn & phiếu giao hàng ____ Automatically Print Invoices & Delivery Form
+Địa chỉ nhận hàng đã tồn tại trong hệ thống ____ has already existed in the system
+đã được khuyến mại cho khách thuộc hóa đơn ( ____ which is already taken by customer (
+Bạn hãy nhập đầy đủ thông tin các trường! ____ You should fill out all required fields!
+Vui lòng nhập Điện thoại không quá kí tự ____ Phone number should not exceed characters
+- Số lượng phải là kiểu số và lớn hơn ____ - Quantity should be a number and larger than
+Có lỗi khi đăng nhập, vui lòng tải lại trang ____ An error occurred please refresh again
+Khách hàng không thuộc chi nhánh hiện tại ____ Customer doesn't belong to current outlet
+- Đơn giá không được vượt quá kí tự phần nguyên ____ - Price should not exceed characters
+Không hỗ trợ thêm nhiều dòng cho một sản phẩm ____ Not support more lines for one product
+Tắt chế độ quét mã vạch cân điện tử ____ Turn off reading barcode from electronic balance
+Voucher đang bị trùng Bạn vui lòng chọn lại ____ Voucher is duplicated Please select again
+Vui lòng nhập đơn vị cơ bản không quá kí tự ____ Phone number should not exceed characters
+Vận đơn KHÔNG được cập nhật thành công trên ____ Shipping order is unable to be created on
+Bạn chắc chắn muốn xóa người thu/nhận? ____ Are you sure you want to delete buyer/receiver?
+Số lượng của không được vượt quá tồn kho của lô ____ Quantity of cannot exceed lot on- hand
+Số lượng của không được vượt quá tồn kho của Lô ____ Quantity of cannot exceed lot on- hand
+Số Serial/Imei không tồn tại hoặc đã được lựa chọn ____ Serial/Imei not exists or had chosen
+Vui lòng nhập Cơ sở khám bệnh không quá kí tự ____ Phone number should not exceed characters
+Bạn cần cung cấp số điện thoại người nhận ____ You need to provide a recipient's phone number
+Không cho phép tự động mặc định khách thanh toán ____ Do not enter customer pay automatically
+Bạn không thể cập nhật hóa đơn ở chế độ offline ____ You cannot update invoice in offline mode
+Khách hàng không có quyền sử dụng voucher ____ Customer doesn’t have permission to use voucher
+Không thể kết nối tới server Vui lòng thử lại sau ____ There is no connection Please try again
+Phí cần phải thanh toán cho đối tác giao hàng ____ Shipping fee which must be paid for Carrier
+Voucher không áp dụng trên chi nhánh hiện tại ____ Voucher cannot be applied in current outlet
+Địa chỉ hoặc số điện thoại lấy hàng không hợp lệ ____ The address or phone number is not valid
+đã ngừng kinh doanh Bạn có cho phép trả hàng không? ____ is deactivated Do you want to return?
+Có lỗi trong quá trình kết thúc đơn đặt hàng: ____ There is error occur while completing order:
+Hệ thống không hỗ trợ nhiều hơn dòng sản phẩm ____ Hệ thống không hỗ trợ nhiều hơn dòng sản phẩm
+Không có kết nối Internet Vui lòng thử lại ____ There is no internet connection, please try again
+Voucher khuyến mại không áp dụng trên chi nhánh hiện tại ____ Voucher not apply in current outlet
+Không có kết nối Internet, vui lòng thử lại ____ There is no internet connection, please try again
+Không có kết nối Internet, vui lòng thử lạihoặc chọn đối tác giao hàng khác ____ There is no internet connection, please try againor choose a different shipping partner
+Không có mặt hàng để hoàn trả đối với hóa đơn này ____ No item could be returned with this invoice
+Không tự động in hóa đơn & phiếu giao hàng ____ Do not Automatically Print Invoices & Delivery Form
+Voucher khuyến mại không áp dụng với khách hàng hiện tại ____ Voucher not apply to current customer
+Không thực hiện được vì Hóa đơn đã quá hạn được phép trả ngày ____ Unable to process because invoice
+- Số lượng phải là số không được vượt quá kí tự phần nguyên ____ - Price should not exceed characters
+Hệ thống giới hạn tab cho màn hình bán hàng ____ Maximally, tabs are allowed opening on a sale screen
+Voucher không áp dụng được cho các hàng hóa đang mua ____ Voucher can't be applied to chosen products
+Định dạng file không đúng, chỉ hỗ trợ đuôi: xlsx, xls ____ Invalid format, allowed formats: xlsx, xls
+Bạn có muốn loại bỏ danh sách hàng hóa sau ____ Are you sure you want to remove the following products
+Không Áp dụng gộp nhiều voucher trên một hoá đơn ____ Could not apply multiple vouchers on one invoice
+Số tiền thanh toán bằng điểm phải chia hết cho ____ Payment amount by loyalty point must be divided by
+Hiển thị danh sách hàng thành phần của hàng combo ____ Display the component list of combo-set products
+Bạn không thể phát hành voucher khi đang ở chế độ offline ____ You cannot release voucher in offline mode
+Tổng tiền hàng phải lớn hơn mới có thể sử dụng voucher ____ Sub-total must be greater than to use voucher
+- Đơn giá phải là kiểu số và lớn hơn hoặc bằng ____ - Price should be a number and larger than or equal to
+Giảm giá hóa đơn không được lớn hơn Tổng tiền hàng ____ Discount amount should not exceed Sub-total amount
+Giảm giá không được lớn hơn Tổng giá gốc tiền hàng ____ Discount amount should not exceed Sub-total amount
+- Giảm giá phải là kiểu số và lớn hơn hoặc bằng ____ - Price should be a number and larger than or equal to
+Bạn có chắc chắn muốn xóa địa chỉ lấy hàng không? ____ Are you sure you want to delete this pickup address?
+Bạn đang offline Sẽ lưu các thay đổi tại máy ____ There is no connection All changes still be saved offline
+Giảm giá đặt hàng không được lớn hơn Tổng tiền hàng ____ Discount amount should not exceed Sub-total amount
+Bạn có muốn lưu phiếu đặt hàng trước khi tạo hóa đơn không? ____ Do you want save order before make invoice?
+Nội dung chương trình khuyến mại không được vượt quá kí tự ____ Promotions info should not exceed characters
+sẽ không được lưu lại Bạn có chắc chắn muốn đóng không? ____ will not be saved Are you sure you still close?
+Bạn vui lòng đợi ít phút để hệ thống ổn định trước khi đồng bộ! ____ Please wait a few minutes and try again!
+Hệ thống không hỗ trợ thêm hàng hóa khi offline ____ The system does not support offline sale in incognito mode
+Số lượng nhập không được lớn hơn số lượng tối đa cho phép ____ quantity of bonus item exceed allowed limitation
+Hệ thống không hỗ trợ thêm nhóm hàng khi offline ____ The system does not support offline sale in incognito mode
+Bạn vừa chuyển thông tin khách hàng từ Khách lẻ sang ____ You have just change customer information from Guest to
+Khi thay đổi thông tin trên hóa đơn, hệ thống sẽ: ____ When changing information on the invoice, the system will:
+Bạn có chắc chắn muốn hủy địa chỉ nhận hàng này không? ____ Are you sure you want to delete this shipping address?
+Hệ thống chỉ hỗ trợ tối đa import trang dữ liệu ____ Maximally, pages are supported for importing at the same time
+Mặc định tự động số tiền Khách thanh toán hoặc Tiền trả khách ____ Enter customer pay / refund amount automatically
+Sản phẩm - đã ngừng kinh doanh Bạn có cho phép trả hàng không? ____ Product - is deactivated Do you want to return?
+Tính năng này chỉ có sẵn khi bạn đang online ____ This feature is available only if there is no internet connection
+Bạn có muốn lưu phiếu yêu cầu sửa chữa trước khi tạo hóa đơn không? ____ Do you want save order before make invoice?
+Bạn vừa chuyển từ thông tin khách hàng từ Khách lẻ sang ____ You have just change customer information from Guest to
+Dữ liệu không đúng định dạng: Phải có cột Mã hàng, Số lượng ____ Invalid data: lack of Product number, Quantity rows
+số lượng hàng tặng không được lớn hơn số lượng tối đa cho phép ____ quantity of bonus item exceed allowed limitation
+Số tiền vượt quá giá trị thanh toán bằng điểm cho phép ____ Payment amount by loyalty point exceed allowed limitation
+Thời gian phát hành không nằm trong thời gian áp dụng của voucher ____ Release time is not in applied time of voucher
+Hệ thống không hỗ trợ bán hàng offline ở chế độ ẩn danh ____ The system does not support offline sale in incognito mode
+Bạn không thể thanh toán hóa đơn bằng voucher ở chế độ offline ____ You cannot make a payment by voucher in offline mode
+Thời gian giao dịch không phù hợp với thời hạn sử dụng của voucher ____ Purchase time not valid with use time of voucher
+Hệ thống hỗ trợ thanh toán tối đa cho hóa đơn Xin vui lòng chọn lại ____ System supports up to invoices Please select again
+Hệ thống không áp dụng CTKM có dùng voucher với đặt hàng ____ The system does not apply promotion to use voucher with order
+Tổng số dòng của các trang dữ liệu không được vượt quá dòng ____ The total number of rows of data pages cannot exceed lines
+đang còn nợ, bạn có chắc chắn muốn Trả tiền cho khách không? ____ is in arrears, are you sure you want to Pay for customer?
+Không có kết nối internet Giao dịch được lưu offline ____ There is no internet connection Transaction still be saved offline
+Số tiền thanh toán đã đủ, bạn không dùng thêm voucher được nữa ____ Payment amount is enough, you cannot use voucher anymore
+Tài khoản mật khẩu không chính xác hoặc tài khoản này chưa từng đăng nhập trên thiết bị này ____ Account logged-in is invalid
+Bạn chỉ có thể tặng các voucher chưa sử dụng Voucher không hợp lệ ____ You can only gift the unused voucher Voucher is invalid
+Công nợ của KH sẽ bị thay đổi Bạn có chắc chắn không? ____ Customer liability will be changed as well Are you sure to continue?
+Chương trình khuyến mại tặng voucher không thể áp dụng khi đang ở chế độ offline ____ Gift voucher promotion cannot apply in offline mode
+Hệ thống không hỗ trợ mở quá tab Xin vui lòng đóng bớt tab hiện có ____ Maximally, active tabs are support Please feel free to close some
+Trạng thái Voucher chưa hợp lệ Voucher phải ở trạng thái Đã phát hành ____ Voucher status of is invalid Voucher status should be Released
+Hóa đơn này có sử dụng voucher để thanh toán, bạn không thể thực hiện trả hàng ____ This invoice was paid by voucher, you cannot return it
+Voucher tặng không thuộc đợt phát hành hợp lệ của chương trình khuyến mại ____ Gift voucher does not belong valid release of the promotion
+Bạn chưa nhập tên khách hàng Bạn có chắc chắn muốn đặt hàng không? ____ Customer name is empty Are you sure you want to complete this order?
+Không cho phép áp dụng gộp chương trình khuyến mại, vui lòng không chọn thêm ____ Unable to apply multiple promotions, please do not select more
+Bạn chưa nhập thông tin khách hàng Bạn có chắc chắn muốn tiếp tục không? ____ Customer name is empty Are you sure you want to complete this order?
+Để hệ thống đồng bộ chính xác với hãng vận chuyển, bạn vui lòng thông báo cho nhân viên tiếp nhận đơn hàng ____ Please inform the staff of carrier
+- Tất cả các phiếu thanh toán của hóa đơn cũ sẽ được gắn với hóa đơn mới ____ - All payments of the old invoice will be attached to the new invoice
+Bạn chưa nhập Tên người mua/nhận Bạn có chắc chắn muốn phát hành không? ____ Buyer/Receiver is empty Are you sure you want to release these voucher?
+Cửa hàng chưa chọn Tài khoản nhận tiền thu hộ (COD) từ Hãng vận chuyển ____ Your shop have not provided the account received COD amount from Supplier
+Hóa đơn đã sử dụng điểm để thanh toán, bạn có chắc chắn muốn thực hiện trả hàng hay không? ____ This invoice was paid by point, do you want to return?
+Khách hàng không được phép tích điểm, xin vui lòng xem lại thiết lập tính năng Tích điểm ____ Customer is not applied loyalty program, please check again
+- Giảm giá () phải là kiểu số, lớn hơn hoặc bằng và nhỏ hơn hoặc bằng ____ - Discount () must be numeric, greater than or equal to , and less than or equal to
+Hóa đơn tạm tạo từ đơn đặt hàng này sẽ bị đóng Bạn có chắc chắn muốn lưu? ____ Temporary invoice from this order will be closed Are you sure you want to save?
+Chương trình khuyến mại sau không thể áp dụng vì cũng tồn tại trong hộp quà khác mà không thể áp dụng: ____ Gift voucher promotion cannot apply in offline mode
+Hóa đơn này có sử dụng voucher để thanh toán, bạn có chắc chắn muốn thực hiện trả hàng hay không? ____ This invoice was paid by voucher, do you want to return?
+Giá trị thanh toán bằng điểm không được lớn hơn tiền khách cần trả ____ Cost of payment with loyalty points should not be larger than Total (customer pay) amount
+Phiếu có thay đổi khách hàng Vui lòng lưu đơn đặt hàng trước khi tạo hóa đơn ____ Customer information is updated Please save all changes before adding new invoice
+Sai tên đăng nhập hoặc mật khẩu Click vào link Quên mật khẩu để thiết lập lại ____ Username or password is incorrect Click on Forget password link to reset password
+Bạn đang mở quá nhiều tab trên màn hình bán hàng Xin vui lòng đóng bớt để dễ theo dõi ____ There are too many tabs to being opened You should close some for convenience
+Hóa đơn có hàng hóa đã nhập Lô/date bạn có chắc chắn chuyển sang đặt hàng không? ____ The batch/expiry date is input, are you sure you still want to change it to order?
+Hóa đơn tạm tạo từ phiếu yêu cầu sửa chữa này sẽ bị đóng Bạn có chắc chắn muốn lưu? ____ Temporary invoice from this order will be closed Are you sure you want to save?
+số lượng hàng khuyến mại đang nhỏ hơn số lượng tối đa cho phép Bạn có chắc chắn không? ____ quantity of bonus item exceeds allowed limitation Are you sure you continue?
+Hóa đơn có hàng hóa đã nhập số Serial/IMEI bạn có chắc chắn chuyển sang đặt hàng không? ____ The Serial/IMEI is input, are you sure you still want to change it to order?
+: số lượng hàng khuyến mại đang nhỏ hơn số lượng tối đa cho phép Bạn có chắc chắn không? ____ quantity of bonus item exceeds allowed limitation Are you sure you continue?
+Đơn đặt hàng có thay đổi khách hàng Vui lòng lưu đơn đặt hàng trước khi tạo hóa đơn ____ Customer information is updated Please save all changes before adding new invoice
+Sản phẩm vừa lựa chọn không thuộc bảng giá Bạn có muốn thêm vào đơn hàng? ____ Selected product is not in price book Are you sure want to add that product into transaction?
+Bạn sẽ được giảm giá theo chính sách của từng hãng khi gửi hàng tại bưu cục ____ You may get discount when drop-off your parcel at nearby depot (depend on carrier’s policy)
+Hệ thống không cho phép áp dụng chương trình khuyến mại hoặc thanh toán bằng điểm khi đã dùng voucher ____ You cannot use any promotion program or points when using voucher
+Hóa đơn đã sử dụng voucher và điểm để thanh toán, bạn có chắc chắn muốn thực hiện trả hàng hay không? ____ This invoice was paid by voucher and point, do you want to return?
+: Số lượng hàng khuyến mại không được nhỏ hơn số lượng khuyến mại đã lấy ( ____ The number of promotional products allowed could not be less than productional products received (
+Trên phiếu có hàng hóa bảo hành bảo trì Bạn chưa nhập tên khách hàng Bạn có chắc chắn tạo Hóa đơn không? ____ Customer name is empty Are you sure you want to complete this order?
+Giảm giá khuyến mại không được nhỏ hơn giảm giá khuyến mại đã lấy ( ____ Value of promotion must not be less than the value of promotion is already taken in previous transactions (
+- Tất cả các phiếu thanh toán, thông tin vận đơn của hóa đơn cũ sẽ được gắn với hóa đơn mới ____ - All payments, shipping info of the old invoice will be attached to the new invoice
+Bạn sẽ không xử lý tiếp với những hàng hóa chưa lấy hết và kết thúc đơn đặt hàng ngay bây giờ? ____ You will not able to process the un-taken products, do you want to complete the order now?
+Phiếu yêu cầu sửa chữa có thay đổi khách hàng Vui lòng lưu phiếu yêu cầu sửa chữa trước khi tạo hóa đơn ____ Customer information is updated Please save all changes before adding new invoice
+Hệ thống sẽ tạo ra phiếu thu cho các voucher trên Bạn có chắc chắn muốn phát hành không? ____ The system will make a receipt voucher for the released voucher(s) Are you sure you want to release?
+Bạn nhập sai mật khẩu Vui lòng liên hệ chủ cửa hàng để thiết lập lại mật khẩu mới nếu cần ____ Username or password is incorrect Please contact your shop’s admin to reset your password if necessary
+Bạn chưa nhập thông tin khách hàng Hệ thống không theo dõi công nợ với khách lẻ Bạn có chắc chắn muốn thanh toán? ____ Customer information is empty Are you sure you still want to complete this transaction?
+Phiếu đặt hàng đã có hóa đơn gắn với nó áp dụng khuyến mại Bạn có muốn tiến hành thay đổi phiếu đặt hàng hay không? ____ This order has related invoice applying promotion, are you sure you want to change it?
+Bạn chỉ có thể áp dụng các chương trình khuyến mại Giá bán theo số lượng cùng giảm theo VND hoặc cùng giảm theo ____ You can only apply one type of \Buy every n items at a fixed reduced price \ promotion by () or (VND)
+Hệ thống hỗ trợ thanh toán nợ tối đa cho hóa đơn Xin vui lòng tách khoản thanh toán thành nhiều khoản nhỏ hơn để thực hiện ____ The system supports payment up to invoices Please divide the payment into smaller amounts to process
+Bạn không có quyền Thay đổi giá sản phẩm, hệ thống sẽ mặc định lấy theo bảng giá chung Bạn có đồng ý không? ____ You have no permission to change product price, and product price will be set as general price be default Are you agree?
+Hệ thống hỗ trợ thanh toán nợ tối đa cho phiếu trả hàng Xin vui lòng tách khoản thanh toán thành nhiều khoản nhỏ hơn để thực hiện ____ The system supports payment up to returns Please divide the payment into smaller amounts to process
+- Nếu bạn thay đổi số lượng hàng hóa, cần đảm bảo tồn kho của cửa hàng vẫn đáp ứng đủ, hệ thống sẽ không kiểm tra lại ____ - If you change product quantity, please make sure there are enough products in stock The system will not check again
+Bạn đang sử dụng dịch vụ thu tiền hộ nhưng giá trị tổng cần thu (COD) , Vui lòng kiểm tra lại hóa đơn để tránh sai sót ____ You are using the Cash on Delivery service but total amount cash to collect , Please check your invoice to avoid errors
+Khuyến mại đang được áp dụng tại thời điểm đặt hàng Bạn có muốn hủy và chọn lại khuyến mại tại thời điểm hiện tại? ____ The running promotion is applied at the time of ordering Do you want to cancel and re select the promotion at the present time?
+Thay đổi phiếu YCSC sẽ không được cập nhật vì bạn không có quyền cập nhật phiếu phiếu YCSC Bạn có chắc chắn muốn tạo hóa đơn không? ____ Yours change could not be saved because you don’t have permission to change the orders Are you sure you to add invoice?
+Thay đổi trên đơn hàng sẽ không được cập nhật vì bạn không có quyền cập nhật phiếu đặt hàng Bạn có chắc chắn muốn tạo hóa đơn không? ____ Yours change could not be saved because you don’t have permission to change the orders Are you sure you to add invoice?
+Lưu ý: Trong mỗi lần import, hệ thống hỗ trợ tối đa trang tính (sheet), mỗi trang tính tương đương một giao dịch và có tối đa dòng ____ Note: In each import, the system supports up to sheets, each sheet is equivalent to a transaction and has a maximum of lines
+Để hệ thống đồng bộ chính xác với hãng vận chuyển, bạn vui lòng thông báo cho nhân viên tiếp nhận đơn hàng mã vận đơn đã được tạo từ KiotViet ____ Note: Please inform the staff of carrier the tracking code generated from KiotViet to ensure system work smoothly
+Hệ thống sẽ tạo ra phiếu thu cho các voucher trên và không ghi nhận công nợ cho người mua Bạn có chắc chắn muốn phát hành không? ____ The system will make a receipt voucher for the released voucher(s) and does not get debit for the purchase Are you sure you want to release?
+Bạn đang ở thao tác ở chế độ ẩn danh Bạn nên thoát khỏi chế độ này để hệ thống hỗ trợ bán hàng một cách tốt nhất, đặc biệt là khi mất kết nối internet ____ You are in incognito mode You should exit this mode so that the system supports sale in the best way, especially when internet connection is lost
+Số điện thoại và địa chỉ lấy hàng là thông tin của chi nhánh bán đơn hàng Bạn cần cung cấp thông tin này đầy đủ và chính xác để Hãng vận chuyển có thể đến lấy hàng đem giao Click để cập nhật thông tin của chi nhánh ____ Pick up address and phone number is the information of this invoice outlet Click here to update outlet details
+Bộ nhớ trống ổ C không đủ để hệ thống thực hiện tốt các tính năng trên màn hình bán hàng Xin vui lòng xóa bớt dữ liệu không sử dụng và nhấn phím F để tiếp tục bán hàng ____ The blank memory drive C is not enough for the system to perform well the features on the sales screen Please erase the unused data and press F to continue the sale
+Kích thước: dài x rộng x cao (cm) sẽ được Hãng vận chuyển sử dụng để xác định trọng lượng quy đổi theo thể tích, trọng lượng nào lớn hơn sẽ áp dụng để tính phí vận chuyển (*) Giá cước sẽ được tự động cập nhật sau khi hãng vận chuyển cân đo lại giá trị thực tế ____ Dimensions: length x width x height (cm) will be used to calculate the weight conversion by volume Carrier will use the greater value to determine shipment feeđể tính phí vận chuyển

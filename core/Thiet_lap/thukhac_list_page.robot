@@ -1,0 +1,20 @@
+*** Variables ***
+${textbox_surcharge_mathukhac}    //input[@placeholder='Mã thu tự động']
+${textbox_surcharge_loaithu}    //div[contains(@kendo-window, 'surchargeWindow')]//div[contains(@class, 'form-group') and ./label[text()='Loại thu']]//input[@type='text']
+${textbox_surcharge_giatri}    //div[contains(@kendo-window, 'surchargeWindow')]//div[contains(@class, 'form-group') and ./label[text()='Giá trị']]//input[@type='text']
+${icon_giatri_%}    //kv-toggle//a[text()='%']
+${icon_giatri_vnd}    //kv-toggle//a[text()='VND']
+${textbox_surcharge_chinhanh}    //div[contains(@kendo-window, 'surchargeWindow')]//div[contains(@class, 'form-group') and ./label[text()='Chi nhánh']]//div[contains(@class, 'k-multiselect-wrap')]//input[contains(@class,'readonly')]
+${cell_item_surcharge_chinhanh}    //div[contains(@class,'k-animation-container')]//li[contains(text(),'{0}')]    #ten chi nhanh
+${checkbox_surcharge_chinhanh}    //div[contains(@kendo-window, 'surchargeWindow')]//div[contains(@class, 'form-group') and ./label[text()='Chi nhánh']]//aside//a
+${textbox_surcharge_thutuhienthi}    //div[contains(@kendo-window, 'surchargeWindow')]//div[contains(@class, 'form-group') and ./label[text()='Thứ tự hiển thị']]//input[@type='text']
+${checkbox_surcharge_tudong_hoadon}    //div[contains(@kendo-window, 'surchargeWindow')]//div[contains(@class, 'form-group')]//label[text()='Tự động đưa vào hóa đơn']
+${checkbox_surcharge_hoanlai_trahang}    //div[contains(@kendo-window, 'surchargeWindow')]//div[contains(@class, 'form-group')]//label[text()='Hoàn lại khi trả hàng']
+${button_surcharge_save}    //div[contains(@class, 'kv-window-footer')]//a[contains(@ng-click, 'saveSurcharge()')]
+${button_surcharge_cancel}    //div[contains(@class, 'k-widget k-window')][2]//a[text()="Bỏ qua"]
+${textbox_search_surcharge}    //input[@placeholder='Theo mã thu khác']
+${checkbox_filter_luachonhienthi_tatca}    //article[contains(@class,'leftStatus') and ./h3[contains(text(), 'Lựa chọn hiển thị')]]//label[text()='Tất cả']
+${button_capnhat_surcharge}    //article[contains(@class,'kv-group-btn')]//a[@ng-click='editSurcharge(dataItem)']
+${button_delete_surcharge}    //article[contains(@class,'kv-group-btn')]//a[@ng-click='deleteSurcharge(dataItem)']
+${button_active_surcharge}    //article[contains(@class,'kv-group-btn')]//a[@ng-click='activeSurcharge(dataItem)']
+${button_save_change_surcharge}    //button[@ng-enter='onConfirm()']

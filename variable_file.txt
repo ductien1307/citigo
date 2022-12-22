@@ -1,0 +1,5 @@
+# ============ List variable ==========
+--variable env:AT59913
+--variable remote:http://localhost:9999/wd/hub
+--variable account:admin
+--variable headless_browser:F

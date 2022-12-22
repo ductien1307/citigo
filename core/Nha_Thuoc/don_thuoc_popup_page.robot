@@ -1,0 +1,18 @@
+*** Variables ***
+${checkbox_banthuoc_theodon}         //label[@id='addPrescriptionCheckbox']//span
+${link_banthuoc_theodon}     //span[contains(text(),'Bán thuốc theo đơn')]
+${textbox_ma_don_thuoc}    //input[@placeholder='Mã mặc định']
+${cell_bs_kedon}       //span[contains(text(),'Chọn bác sĩ')]
+${item_bs_indropdown}      //li[contains(text(),'{0}')]
+${cell_cskb}      //span[@class='k-input'][contains(text(),'Chọn cơ sở khám bệnh')]
+${textbox_ten_bn}      //input[@id='patientName']
+${textbox_tuoi_bn}   //input[@placeholder='Nhập tuổi bệnh nhân']
+${checkbox_gioitinh_bn}        //span[contains(text(),'{0}')]
+${textbox_cannang_bn}    //input[@placeholder='Nhập cân nặng']
+${textbox_nhap_cmt}     //input[@placeholder='Nhập CMTND/Căn cước']
+${textbox_the_bhyt}   //input[@placeholder='Nhập thẻ Bảo hiểm y tế']
+${textbox_diachi_bn}         //input[@placeholder='Nhập địa chỉ']
+${textbox_nguoi_giamho}    //input[@placeholder='Nhập người giám hộ']
+${textbox_dienthoai_bn}    //input[@placeholder='Nhập số điện thoại']
+${textbox_chandoan}   //textarea[@placeholder='Nhập chuẩn đoán']
+${button_donthuoc_xong}     //a[@ng-click='vm.onSubmit()']//span//span[contains(text(),'Xong')]

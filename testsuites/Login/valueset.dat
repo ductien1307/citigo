@@ -1,0 +1,11 @@
+  [retail1]
+  tags=admin-server
+  URL=https://phuongnh.kvpos.com:9001
+  USERNAME=admin
+  PASSWORD=123
+  
+  [retail2]
+  tags=server
+  URL=https://auto9k1.kvpos.com:9001
+  USERNAME=admin
+  PASSWORD=123

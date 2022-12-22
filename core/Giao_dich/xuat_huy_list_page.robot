@@ -1,0 +1,10 @@
+*** Variables ***
+${textbox_search_ma_xh}    //input[@placeholder='Theo mã xuất hủy']
+${cell_tong_sl_huy}    //td[contains(text(),'Tổng số lượng hủy')]//..//td[contains(@class,'txtB')]
+${cell_tong_giatri_huy}    //td[contains(text(),'Tổng giá trị hủy')]//..//td[contains(@class,'txtB')]
+${button_taophieu_xh}    //a[@ng-show='hasAdd']
+${button_xh_mophieu}    //a[contains(text(),'Mở phiếu')]
+${button_xh_saochep}      //a[i[@class='far fa-clone']]
+${button_xh_luu}    //a[i[@class='fas fa-save']]
+${button_xh_huybo}      //a[i[@class='far fa-close']]
+${button_xh_dongy_huybo}     //button[@class='btn-confirm btn btn-success']

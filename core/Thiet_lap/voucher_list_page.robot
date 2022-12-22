@@ -1,0 +1,31 @@
+*** Variables ***
+${button_search_dropdown}    //button[@type='button'][contains(@class,'dropdown-toggle')]//i[contains(@class,'fa-caret-down')]
+${textbox_search_voucher}    //div[@class='form-group']//input[@placeholder='Theo mã, tên đợt phát hành']
+${button_timkiem}    //button[contains(text(),'Tìm kiếm')]
+${textbox_voucher_code}    //input[@placeholder='Mã tự động']
+${textbox_voucher_name}    //div[@class='form-group']//label[contains(text(),'Tên đợt phát hành')]/..//input[@type='text']
+${textbox_voucher_menhgia}    //div[@class='form-group']//label[contains(text(),'Mệnh giá')]/..//input[@type='text']
+${checkbox_voucher_kichhoat}    //div[contains(@kendo-window, 'myKendoWindow')]//div[contains(@class, 'form-group') and ./label[text()='Tình trạng']]//aside//label[text()='Kích hoạt']
+${checkbox_voucher_chuaapdung}    //div[contains(@kendo-window, 'myKendoWindow')]//div[contains(@class, 'form-group') and ./label[text()='Tình trạng']]//aside//label[text()='Chưa áp dụng']
+${checkbox_voucher_gop_voucher}    //div[contains(@class,'checkbox-tooltip')]//aside//label[contains(text(),'Áp dụng gộp nhiều voucher trên một hoá đơn')]
+${button_chonnhomhang}    //div[@class='input-group-append']//button[@title='Chọn nhóm hàng']//i[contains(@class,'fa-list-alt')]
+${checkbox_item_nhomhang_inpopup}  //div[contains(@class,'scroll-content')]//span[text()='{0}']     #nhom hang
+${textbox_tongtienhang}    //div[@class='form-group']//label[contains(text(),'Tổng tiền hàng')]/..//input[@type='text']
+${textbox_ghichu}    //label[@class='wrap-note']//textarea[@type='text'][@placeholder='Ghi chú...']
+${button_voucher_save}    //div[contains(@class,'k-window-voucher')]//div[@kendo-window ='myKendoWindow']//a[@ng-click='vm.onSave()']
+${button_voucher_cancel}    //div[contains(@class,'k-window-voucher')]//div[@kendo-window ='myKendoWindow']//a[text()='Bỏ qua']
+${checkbox_filter_trangthai_tatca}    //article[contains(@class,'leftStatus') and ./h3[contains(text(), 'Trạng thái ')]]//label[text()='Tất cả']
+${button_capnhat_voucher}    //article[@class='kv-group-btn']//a[contains(text(),' Cập nhật')]
+${button_delete_voucher}    //article[@class='kv-group-btn']//a[contains(text(),' Xóa')]
+#-------phat hanh voucher
+${tab_phathanh}    //a[contains(@class,'tabbut_new')][contains(text(),'Danh sách voucher')]
+${textbox_search_voucher_code}    //kv-voucher-list[contains(@class,'ng-scope ng-isolate-scope')]//input[@id='searchSerialInput']
+${checkbox_vouchercode}    //kv-voucher-list[contains(@class,'ng-scope ng-isolate-scope')]//div[contains(@class,'k-grid-content k-auto-scrollable')]//a
+${dropdown_thaotac}    //a[contains(text(),'Thao tác')]
+${item_phathanh}    //a[contains(text(),' Phát hành voucher')]
+${button_phathanh_luu}    //div[@class='kv-window-footer']//a[@ng-click='vm.save()']
+${radio_tang}    //div[@class='form-control--radio-wrapper']//label[contains(text(),'Tặng')]
+#--------
+${button_xong_in_popup}    //kv-category-selector[contains(@class,'ng-isolate-scope')]//div[contains(@class,'kv-window-footer')]//a[text()='Xong']
+${button_dongy_del_voucher}   //button[@ng-enter='onConfirm()']
+${button_close_popup}    //div[contains(@class,'k-window-poup kv-window k-window-fix k-window-voucher kv-tabs-header kv-tabs')]//div[@class='k-window-actions']//a[@role='button']//span[contains(@class,'k-i-close')][contains(text(),'Close')]

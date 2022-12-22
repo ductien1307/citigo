@@ -1,0 +1,12 @@
+*** Variables ***
+${textbox_search_mautin}      //input[@ng-show="showTemplateFilter"]
+${button_themmau}      //a[contains(text(),' Thêm mẫu')]
+${button_sms_zms}     //a[contains(text(),'SMS')]
+${button_email}     //a[contains(text(),'Email')]
+${textbox_tieude}    //input[@ng-model="template.Title"]
+${textbox_noidung}      //textarea[@ng-show="template.Type == 1"]
+${button_luu_mau}     //button[@ng-click="saveTemplate()"]
+${textbox_noidung_email}      //body[@autocorrect="off"]
+${button_capnhat_mautin}     //button[contains(@class,"btn btn-success")]
+${button_xoa_mautin}      //a[@ng-if="_p.has('SmsEmailTemplate_Delete')"]
+${button_dongy_xoa_mautin}     //button[@ng-click="ok()"]

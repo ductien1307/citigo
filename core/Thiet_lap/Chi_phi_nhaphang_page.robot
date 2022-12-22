@@ -1,0 +1,20 @@
+*** Variables ***
+${textbox_ma_cpnh}    //input[@id='expensesOtherCode']
+${textbox_ten_cpnh}    //input[@id='expensesOtherName']
+${textbox_giatri_cpnh}    //input[@id='priceInput']
+${icon_giatri_vnd_cpnh}    //kv-toggle//a[text()='VND']
+${icon_giatri_%_cpnh}    //kv-toggle//a[text()='%']
+${dropdown_hinhthuc_cpnh}   //div[label[text()="Hình thức"]]//span[text()='Chi phí nhập trả nhà cung cấp']
+${cell_item_dropdown_cpnh}  //div[contains(@class,'k-animation-container')]//li[text()='{0}']   #ten hinh thuc, chi nhanh
+${checkbox_toanhethong_cpnh}   //label[text()='Toàn hệ thống']
+${checkbox_chinhanh_cpnh}   //label[text()='Chi nhánh']
+${textbox_chonchinhanh}    //div[@ng-show='isShowBranch']//div[contains(@class,'floatwrap')]//input
+${checkbox_tudong_nhaphang}   //label[text()='Tự động đưa vào phiếu nhập hàng']
+${checkbox_hoanlai_trahangnhap}   //label[text()='Hoàn lại khi trả hàng nhập']
+${button_luu_cpnh}    //a[@ng-click='saveExpensesOther()']
+${button_boqua_cpnh}    //a[@ng-click='cancel()']
+${textbox_search_expense}  //input[@placeholder='Theo mã chi phí']
+${checkbox_trangthai_expense}   //article[contains(@class,'leftStatus') and ./h3[contains(text(), 'Trạng thái')]]//label[text()='Tất cả']
+${button_capnhat_expense}   //article[contains(@class,'kv-group-btn')]//a[@ng-click='editExpensesOther(dataItem)']
+${button_delete_expense}   //article[contains(@class,'kv-group-btn')]//a[@ng-click='deleteExpensesOther(dataItem)']
+${button_active_expense}   //article[contains(@class,'kv-group-btn')]//a[@ng-click='activeExpensesOther(dataItem)']

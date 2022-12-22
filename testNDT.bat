@@ -1,0 +1,1 @@
+pabot --processes 1 -T -d reports --variable env:live4  --variable remote:http://localhost:9999/wd/hub --variable account:admin  --variable device:client  --variable headless_browser:F -i PUBLIC_API_NHAP_HANG testsuites

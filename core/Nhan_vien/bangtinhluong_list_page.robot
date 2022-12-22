@@ -1,0 +1,27 @@
+*** Variables ***
+${button_them_bang_luong}     //a[@ng-click="vm.openPaysheetForm()"]
+${cell_kyhantraluong}     //label[text()="Kỳ hạn trả lương"]//..//span//span[@class="k-input ng-scope"]
+${item_kyhan_in_dropdowlist}      //div[@class="k-animation-container"]//li[text()="{0}"]
+${textbox_kyhan_bat_dau}    //input[@id='dateFrom']
+${textbox__kyhan_ket_thuc}   //input[@id='dateTo']
+${button_dongy_them_bangluong}      //button[@ng-click="vm.confirmClickHandle()"]
+${textbox_mabangluong}      //input[@placeholder="Mã tự động"]
+${button_chotluong}     //a[@ng-click="vm.completePaysheet()"]
+${button_luutam_bangluong}      //a[@ng-click="vm.savePaysheet()"]
+#
+${textbox_tim_theo_ma_bangluong}      //input[@placeholder='Theo mã, tên bảng lương']
+${button_capnhat_bangluong}     //button[i[@class='fa fa-check-square']]
+${button_dongy_thaydoi_bangluong}   //button[@ng-enter="onConfirm()"]
+${button_huy_bangluong}     //button[@class='kv2Btn kv2BtnDel']
+${button_dongy_huy_bangluong}       //button[@class='btn-confirm btn btn-success']
+#
+${tab_phieuluong}      //span[@class='k-link'][contains(text(),'Phiếu lương')]
+${button_thanhtoan_luong}     //button[@id='btnSave']
+${textbox_tientra_nv_theo_phieu}      //td[a[contains(text(),'{0}')]]//..//td//input[@type="text"]
+${button_tao_phieu_chi}     //button[@ng-click="vm.save()"]
+${cell_ma_phieutt}     //a[contains(text(),'{0}')]
+${button_capnhat_phieutt}         //a[@class='kv2Btn ng-binding']
+${button_huybo_phieutt}     //a[@class='kv2Btn kv2BtnDel ng-binding']
+${button_dongy_huy_phieutt}     //button[@class='btn-confirm btn btn-success']
+#
+${tab_lichsu_thanhtoan}     //span[@class='k-link'][contains(text(),'Lịch sử thanh toán')]

@@ -1,0 +1,676 @@
+{
+  "Summary": "First demo test case",
+  "Testcases": [
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng hóa thường có tồn lớn hơn 0 ",
+      "Description": "Kiểm kho với HTKK0001 tồn lớn hơn 0, kiểm nhỏ hơn ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 30,
+            "ProductCode": "HTKK0001",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng hóa thường có tồn lớn hơn 0 ",
+      "Description": "Kiểm kho với HTKK0001 tồn lớn hơn 0, không điền số lượng thực tế ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": "",
+            "ProductCode": "HTKK0001",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng hóa thường có tồn âm ",
+      "Description": "Kiểm kho với HTKK0005 tồn âm, kiểm lớn hơn 0    ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0005",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng hóa thường có tồn bằng 0 ",
+      "Description": "Kiểm kho với  HTKK0004  tồn bằng 0, kiểm lớn hơn 0 ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0003",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với N hàng hóa thường có tồn bằng  ",
+      "Description": "Kiểm kho với HTKK0001 tồn>0 kiểm nhỏ hơn,HTKK0002 tồn>0 kiểm lớn hơn,HTKK0003 tồn=0 kiểm lớn hơn,HTKK0004 tồn=0 kiểm = 0,HTKK0005 tồn<0 kiểm lớn hơn 0,HTKK0006 tồn<0 kiểm =0",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0001",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 25,
+            "ProductCode": "HTKK0002",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0003",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 0,
+            "ProductCode": "HTKK0004",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0005",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 0,
+            "ProductCode": "HTKK0006",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng hóa với hàng combo ",
+      "Description": "Kiểm kho với hàng hóa combo ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "Combo75",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Không kiểm hàng với sản phẩm combo {ProductName}"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng hóa với hàng dịch vụ ",
+      "Description": "Kiểm kho với hàng hóa dịch vụ ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "DVL007",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Không kiểm hàng với sản phẩm dịch vụ {ProductName}"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng hóa không tồn tại trong hệ thống ",
+      "Description": "Kiểm kho với hàng hóa không có mã ProductId ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK00060",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Phiếu kiểm kho không đúng do số lượng sản phẩm không hợp lệ: Số lượng trong hệ thống 1, số lượng kiểm 0"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng hóa thường có tồn lớn hơn 0 ",
+      "Description": "Kiểm kho với HTKK0001 tồn lớn hơn 0, kiểm nhỏ hơn ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 30,
+            "ProductCode": "HTKK0001",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng hóa thường có tồn âm ",
+      "Description": "Kiểm kho với HTKK0005 tồn âm, kiểm lớn hơn 0    ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0005",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với hàng hóa thường có tồn bằng 0 ",
+      "Description": "Kiểm kho với  HTKK0004  tồn bằng 0, kiểm lớn hơn 0 ",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0003",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với N hàng hóa thường   ",
+      "Description": "Kiểm kho với HTKK0001 tồn>0 kiểm nhỏ hơn,HTKK0002 tồn>0 kiểm lớn hơn,HTKK0003 tồn=0 kiểm lớn hơn,HTKK0004 tồn=0 kiểm = 0,HTKK0005 tồn<0 kiểm lớn hơn 0,HTKK0006 tồn<0 kiểm =0",
+      "IsHappy": true,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0001",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 25,
+            "ProductCode": "HTKK0002",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0003",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 0,
+            "ProductCode": "HTKK0004",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK0005",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          },
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 0,
+            "ProductCode": "HTKK0006",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 200,
+        "Message": "Cập nhật dữ liệu thành công"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng hóa với hàng combo ",
+      "Description": "Kiểm kho với hàng hóa combo ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "Combo75",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Không kiểm hàng với sản phẩm combo {ProductName}"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng hóa với hàng dịch vụ ",
+      "Description": "Kiểm kho với hàng hóa dịch vụ ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "DVL007",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Không kiểm hàng với sản phẩm dịch vụ {ProductName}"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với hàng hóa không tồn tại trong hệ thống ",
+      "Description": "Kiểm kho với hàng hóa không có mã ProductId ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": 5,
+            "ProductCode": "HTKK00060",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Phiếu kiểm kho không đúng do số lượng sản phẩm không hợp lệ: Số lượng trong hệ thống 1, số lượng kiểm 0"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm tạm với mã Kiểm kho lớn hơn 40 kí tự   ",
+      "Description": "Kiểm kho mã phiếu kiểm điền dài hơn 41 kí tự ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": false,
+        "StockTake": {
+          "Id": 0,
+          "Code": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": "",
+            "ProductCode": "HTKK0001",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Vui lòng nhập Mã kiểm kho không quá 40 kí tự"
+      }
+    },
+    {
+      "Name": "Tạo phiếu kiểm hoàn thành với mã Kiểm kho lớn hơn 40 kí tự   ",
+      "Description": "Kiểm kho mã phiếu kiẻm điền dài hơn 41 kí tự ",
+      "IsHappy": false,
+      "Data": {
+        "IsAdjust": true,
+        "StockTake": {
+          "Id": 0,
+          "Code": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no",
+          "CreatedDate": "",
+          "Description": "",
+          "RecentHistory": "[]",
+          "Uuid": ""
+        },
+        "StockTakeDetail": [
+          {
+            "Id": 0,
+            "ProductId": "$ProductId",
+            "ActualCount": "",
+            "ProductCode": "HTKK0001",
+            "ProductName": "Bánh xu kem Nhật",
+            "IsDraft": false,
+            "ConversionValue": 1,
+            "OrderByNumber": 0,
+            "ShowUnit": false
+          }
+        ]
+      },
+      "Response": {
+        "Status_code": 420,
+        "Message": "Vui lòng nhập Mã kiểm kho không quá 40 kí tự"
+      }
+    }
+  ]
+}
